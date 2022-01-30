@@ -13,7 +13,7 @@ body{
     color: var(---blue-dark);
     font-family: var(---font-family);
     font-weight: var(---font-bold);
-    background: url('images/bg-pattern-top.svg'),url('images/bg-pattern-bottom.svg');
+    background: url('bg-pattern-top.svg'),url('bg-pattern-bottom.svg');
     background-repeat: no-repeat no-repeat;
     background-position: -330px -600px, 700px 300px;
     background-color: var(---blue);

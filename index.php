@@ -29,7 +29,7 @@ $numLike/=12;
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-uWxY/CJNBR+1zjPWmfnSnVxwRheevXITnMqoEIeG1LJrdI0GlVs/9cVSyPYXdcSF" crossorigin="anonymous">
   <link rel="stylesheet" href="style.css">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
   
   <title>Profile-card-component-main</title>
 
@@ -38,7 +38,7 @@ $numLike/=12;
 </head>
 <body>
   <main col-5>
-    <div class="pattern"><img class="" src="images/bg-pattern-card.svg" alt=""></div>
+    <div class="pattern"><img class="" src="bg-pattern-card.svg" alt=""></div>
     <div class="image" ><img width="114px" src="photo.jpg" alt=""></div>
     <div class="details d-flex flex-column"><p><?=$username?> ~<span class="gray" style="font-size: 18px;"> <?=$full_name?></span></p><div class="gray"><?=$category?></div></div>
  
