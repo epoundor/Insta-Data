@@ -31,7 +31,7 @@ $numLike/=12;
   <link rel="stylesheet" href="style.css">
   <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
   
-  <title>Profile-card-component-main</title>
+  <title>Instagram Data</title>
 
   <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
   
